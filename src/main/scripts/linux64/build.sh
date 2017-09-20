@@ -14,5 +14,7 @@ rm CPackConfig.cmake
 rm CPackSourceConfig.cmake
 rm jconfig.h
 
+cp ../../c++/jinclude.h ../../../../target/classes/linux64/include
+
 return $r1
 
