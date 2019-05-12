@@ -21,4 +21,4 @@ rm jconfig.h
 
 cp ../../c++/jinclude.h ../../../../target/classes/win64/include
 
-return $r1
+exit ${r1}
